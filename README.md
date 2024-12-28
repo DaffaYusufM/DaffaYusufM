@@ -13,6 +13,29 @@
   <li>Improving user experience through clean and efficient code.</li>
 </ul>
 
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+def algorithm_of_success():
+    confidence = 0.99
+    while True:
+        success = keep_rising(confidence)
+        if success:
+            print("Alhamdulillah! Success achieved!")
+            break
+        else:
+            print("Let's try again, keep pushing forward!")
+        confidence += 0.1
+
+def keep_rising(confidence):
+    if confidence >= 1.0:
+        print("I allow it—success is within reach!")
+        return True
+    else:
+        print("I allow it—keep rising and you'll get there!")
+        return False
+```
 <h2>🚀 Tech Stack:</h2>
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
