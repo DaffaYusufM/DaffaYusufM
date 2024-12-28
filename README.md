@@ -1,6 +1,10 @@
 <h1>🌟 About Me</h1>
 
 <p>Hi there! I’m <strong>Daffa Yusuf Mahendra</strong>, a student at <strong>Telkom University</strong>, pursuing a degree in Information Systems. I have a strong interest in <strong>web development</strong>, especially in creating user-friendly and visually appealing web applications.</p>
+<!-- Visitor Badge -->
+<p align="start">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaffaYusufM&title=Profile%20Views" alt="Profile Views" />
+</p>
 
 <h2>💻 I’m passionate about:</h2>
 <ul>
